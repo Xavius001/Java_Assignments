@@ -1,0 +1,5 @@
+WB91F1649,Vento,FourWheeler,530
+PN67FK0065,Polo,FourWheeler,543
+GA45RF9515,Duke,TwoWheeler,240
+CH51P9636,Ninja,TwoWheeler,287
+KL75F9562,Pulsar,TwoWheeler,200
